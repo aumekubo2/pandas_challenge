@@ -8,11 +8,31 @@
 #*PyCitySchools Analysis - results*
 
 
+## *Total Sample Population Overview
+```Summary of Total Analysis 
 
-```Summary of Total Analysis - results
+Total_School	    = 15
+Total_Students	    = 39,170
+Total_Budget	    = $24,649,428
+Avg Math_Score	    = 78.99
+Avg Reading Score	= 81.88
+% Passing Math	    = 74.98%
+% Passing_Read	    = 85.81%
+% Overall Passing   = 65.17%
 
-Total School	Total Students	Total Budget	Avg Math Score	Avg Reading Score	% Passing Math	% Passing Read	% Overall Passing
-0	15	39170	24649428	78.985371	81.87784	74.980853	85.805463	65.172326
+------
+#*Average and % Score by School Sizes
+
+```
+
+                Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
+School Size					
+Small (<1000)	            83.82	             83.93	            93.55%	        96.10%	               89.88%
+Medium (1000-2000)	        83.37                83.86	            93.60%	        96.79%                 90.62%
+Large (2000-5000)	        77.75	             81.34              69.96%	        82.77%	               58.29%
+
+
+						
 ````
 ![image link](https://github.com/aumekubo2/pandas_challenge/blob/main/education.png)
 -----
