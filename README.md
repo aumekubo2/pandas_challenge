@@ -21,19 +21,25 @@ Avg Reading Score   = 81.88
 % Overall Passing   = 65.17%
 
 ------
-#*Average and % Score by School Sizes
-
+#* Overall Passing Score by School Sizes
 ```
-![summary]('https://github.com/aumekubo2/pandas_challenge/blob/main/education.png')
 
-School Size	            	% Overall Passing
+School Size	                    	% Overall Passing
 
-Small (<1000)	       	            89.88%
+Small (<1000)	                     =	         89.88%
 
-Medium (1000-2000)	                90.62%
+Medium (1000-2000)	                 =           90.62%
 
-Large (2000-5000)	                58.29%
+Large (2000-5000)	                 =           58.29%
 
 
 
 ````
+#* Overall Passing Score by School Type
+````
+
+School Type			                % Overall Passing		
+Charter		                        =             90.43%
+District		                    =             53.67%
+
+`````
