@@ -24,7 +24,7 @@ Avg Reading Score   = 81.88
 ```
 Overall Passing Score by School Sizes:
 
-School Size	                    	% Overall Passing
+School Size	                    	      % Overall Passing
 
 Small (<1000)	                     =	         89.88%
 
@@ -39,7 +39,7 @@ Large (2000-5000)	                 =           58.29%
 ````
 Overall Passing Score by School Type:
 
-School Type			                % Overall Passing	
+School Type			                    % Overall Passing	
 
 Charter		                        =             90.43%
 
@@ -48,7 +48,7 @@ District		                    =             53.67%
 `````
 
 	                                	
-Spending Ranges (Per Student)		% Overall Passing		
+Spending Ranges (Per Student)		    % Overall Passing		
 
 <$585		                        =            90.40%
 
@@ -82,17 +82,17 @@ Pena High School	             Charter                =       90.54%             
 
 Bottom Performing Schools (By % Overall Passing)
 
-School Name                  School Type	        %Overall Passing          Total Students  Budget Per Student
+School Name                  School Type	        %Overall Passing          Total Students     Budget Per Student
 
-Rodriguez High School	        District		        =      52.99%               3999            $637
+Rodriguez High School	          District		        =       52.99%               3999               $637
 
-Figueroa High School	        District	            =      53.20%               2949	        $639
+Figueroa High School	          District	            =       53.20%               2949	            $639
 
-Huang High School	            District	            =      53.51%               2917	        $655
+Huang High School	              District	            =       53.51%               2917	            $655
 
-Hernandez High School	        District	            =      53.53%               4635	        $652
+Hernandez High School	          District	            =       53.53%               4635	            $652
 
-Johnson High School	            District		        =      53.54%               4761	        $650
+Johnson High School	              District		        =       53.54%               4761	            $650
 
 `````
 
