@@ -25,11 +25,11 @@ Avg Reading Score	= 81.88
 
 ```
 
-                Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-School Size					
-Small (<1000)	            83.82	             83.93	            93.55%	        96.10%	               89.88%
-Medium (1000-2000)	        83.37                83.86	            93.60%	        96.79%                 90.62%
-Large (2000-5000)	        77.75	             81.34              69.96%	        82.77%	               58.29%
+                    Average_Math_Score |Average_Reading_Score|%_Passing_Math|%_Passing_Reading|%_Overall_Passing
+School Size			 |		           |                     |              |                 |
+Small (<1000)	     |      83.82	   |         83.93	     |      93.55%	|       96.10%	  |          89.88%
+Medium (1000-2000)	 |      83.37      |         83.86	     |      93.60%	|       96.79%    |          90.62%
+Large (2000-5000)	 |      77.75	   |         81.34       |      69.96%	|       82.77%	  |          58.29%
 
 
 						
@@ -51,6 +51,5 @@ Raymon Anthony Doane: 3.139% (11606)
 ----------------------
 Winner: Diana DeGette
 ````
-![image link](https://github.com/aumekubo2/Python_Mod_3_Challenge/blob/main/Vote_counting.png)
------
+
 [Please click to access the Coding for PyPoll Analysis] (https://github.com/aumekubo2/Python_Mod_3_Challenge/blob/main/PyPoll/main.py)
