@@ -25,14 +25,9 @@ Avg Reading Score	= 81.88
 
 ```
 
-                    Average_Math_Score |Average_Reading_Score|%_Passing_Math|%_Passing_Reading|%_Overall_Passing
-School Size			 |		           |                     |              |                 |
-Small (<1000)	     |      83.82	   |         83.93	     |      93.55%	|       96.10%	  |          89.88%
-Medium (1000-2000)	 |      83.37      |         83.86	     |      93.60%	|       96.79%    |          90.62%
-Large (2000-5000)	 |      77.75	   |         81.34       |      69.96%	|       82.77%	  |          58.29%
 
-
-						
+                    
+                    						
 ````
 ![image link](https://github.com/aumekubo2/pandas_challenge/blob/main/education.png)
 -----
