@@ -24,19 +24,15 @@ Avg Reading Score   = 81.88
 ```
 Overall Passing Score by School Sizes:
 
-School Size	                    	      % Overall Passing
-
-Small (<1000)	                     =	         89.88%
-
-Medium (1000-2000)	                 =           90.62%
-
-Large (2000-5000)	                 =           58.29%
-
+	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
+School Size					
+Small (<1000)	83.821598	83.929843	93.550225	96.099437	89.883853
+Medium (1000-2000)	83.374684	83.864438	93.599695	96.790680	90.621535
+Large (2000-5000)	77.746417	81.344493	69.963361	82.766634	58.286003
 
 
 ````
-
-````
+`
 Overall Passing Score by School Type:
 
 School Type			                    % Overall Passing	
@@ -60,7 +56,6 @@ $645-680		                    =            53.53%
 
 ````
 
-````
 Highest-Performing Schools (by % Overall Passing)
 
 School Name                 School Type	    	  % Overall Passing       Total Students      Budget Per Student
@@ -95,4 +90,6 @@ Hernandez High School	          District	            =       53.53%             
 Johnson High School	              District		        =       53.54%               4761	            $650
 
 `````
+
+!(image)["png"]
 
